@@ -22,3 +22,7 @@ A algortimos abaixo computa a cobertura de vértices C de um grafo G.
 
 1. Utilizando sua classe grafo implementada/recuperada na aula anterior, implemente e teste o algoritmo acima, para grafos conexos com 7, 12 e 20 nodos, 
 
+1- se tentarmos uma solução iniciando por cada um dos nodos da lista?
+        - implemente
+        - é solução ótima? por que?
+2-como alterar p/ solução ótima?
