@@ -25,4 +25,4 @@ A algortimos abaixo computa a cobertura de vértices C de um grafo G.
 1- se tentarmos uma solução iniciando por cada um dos nodos da lista?
         - implemente
         - é solução ótima? por que?
-2-como alterar p/ solução ótima?
+2- como alterar p/ solução ótima?
