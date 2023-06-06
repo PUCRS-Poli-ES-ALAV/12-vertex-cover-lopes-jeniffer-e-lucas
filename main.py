@@ -65,6 +65,13 @@ class Graph:
                     for neighbor in self.graph[node]:
                         if neighbor not in visited:
                             queue.append(neighbor)
+    
+    def CVA(g):
+        c = None
+        e = g * e
+
+        while (e != None):
+
 
 
 # Exemplo de uso
